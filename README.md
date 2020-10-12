@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+Sou o Gabriel, estudante de mestrado em Ciência da Computação no IME-USP.
+
+Sou interessado em desenvolvimento de software em geral, programação funcional, inteligência artificial e o que mais for divertido 😄.
 
 <!--
 **GCrispino/GCrispino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
