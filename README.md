@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou o Gabriel, estudante de mestrado em Ciência da Computação no IME-USP.
+Sou o Gabriel, desenvolvedor de software na Blockdaemon e estudante de mestrado em Ciência da Computação no IME-USP.
 
 Sou interessado em desenvolvimento de software em geral, programação funcional, inteligência artificial e o que mais for divertido 😄.
 
