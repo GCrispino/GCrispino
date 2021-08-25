@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gcrispino&show_icons=true&count_private=true)
 
-![Linguagens utilizadas](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
