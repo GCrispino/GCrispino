@@ -1,23 +1,15 @@
-### Olá 👋
+### (EN) Hello 👋
+
+My name is Gabriel, and I'm a software developer at Blockdaemon and a Computer Science MsC candidate at IME-USP (Brazil).
+
+I'm interested in software development in general, functional programming, artificial intelligence and what else seems fun at the moment 😄.
+
+### (PT-BR) Olá 👋
 
 Sou o Gabriel, desenvolvedor de software na Blockdaemon e estudante de mestrado em Ciência da Computação no IME-USP.
 
 Sou interessado em desenvolvimento de software em geral, programação funcional, inteligência artificial e o que mais for divertido 😄.
 
-<!--
-**GCrispino/GCrispino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gcrispino&show_icons=true&count_private=true)
 
 ![](https://github.com/GCrispino/github-stats/blob/master/generated/languages.svg)
