@@ -1,12 +1,12 @@
 ### (EN) Hello 👋
 
-My name is Gabriel, and I'm a software developer at Blockdaemon and a Computer Science MsC candidate at IME-USP (Brazil).
+My name is Gabriel, and I'm a software developer at Blockdaemon, and I also hold a MsC degree in Computer Science from IME-USP (Brazil).
 
 I'm interested in software development in general, functional programming, artificial intelligence and what else seems fun at the moment 😄.
 
 ### (PT-BR) Olá 👋
 
-Sou o Gabriel, desenvolvedor de software na Blockdaemon e estudante de mestrado em Ciência da Computação no IME-USP.
+Sou o Gabriel, desenvolvedor de software na Blockdaemon e mestre em Ciência da Computação pelo IME-USP.
 
 Sou interessado em desenvolvimento de software em geral, programação funcional, inteligência artificial e o que mais for divertido 😄.
 
